@@ -1,0 +1,7 @@
+node_modules/
+dist/
+package-lock.json
+.env
+*.log
+REVIEW-NOTES.internal.md
+*.internal.md
