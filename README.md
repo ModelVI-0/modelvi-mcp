@@ -2,7 +2,7 @@
 
 Give Claude, Cursor, or any MCP-compatible agent the power to **schedule content across 14 creator platforms** through one partner API. Drop this server into your agent, add your key, and your agent schedules everywhere.
 
-**[▶ Get your API key →](https://modelvi.com/sign-up?ref=modelvi-mcp)** · [Docs](https://modelvi.com/partner-api-docs) · [Pricing](https://modelvi.com/pricing)
+**[▶ Get your API key →](https://modelvi.com/sign-up?utm_source=github&utm_medium=owned-track&utm_campaign=modelvi-mcp)** · [Docs](https://modelvi.com/partner-api-docs) · [Pricing](https://modelvi.com/pricing)
 
 ![status](https://img.shields.io/badge/example-MIT-blue) ![mcp](https://img.shields.io/badge/MCP-server-black) ![node](https://img.shields.io/badge/node-18+-green)
 
@@ -14,7 +14,7 @@ A minimal, MIT-licensed [MCP](https://modelcontextprotocol.io) server (TypeScrip
 
 ## Quickstart (~5 min)
 
-**1. Get your API key** → **[modelvi.com/sign-up](https://modelvi.com/sign-up?ref=modelvi-mcp)**. Partner keys look like `mvk_<keyId>_<secret>`.
+**1. Get your API key** → **[modelvi.com/sign-up](https://modelvi.com/sign-up?utm_source=github&utm_medium=owned-track&utm_campaign=modelvi-mcp)**. Partner keys look like `mvk_<keyId>_<secret>`.
 
 **2. Install & build**
 ```bash
@@ -72,7 +72,7 @@ Every `200` response is wrapped in an envelope — this server unwraps it and ha
 
 ## Ready to build?
 
-**[▶ Get your API key →](https://modelvi.com/sign-up?ref=modelvi-mcp)** — see [pricing](https://modelvi.com/pricing).
+**[▶ Get your API key →](https://modelvi.com/sign-up?utm_source=github&utm_medium=owned-track&utm_campaign=modelvi-mcp)** — see [pricing](https://modelvi.com/pricing).
 
 ## Links & notes
 
