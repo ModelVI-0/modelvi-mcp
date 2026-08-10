@@ -6,7 +6,7 @@
  * ModelVI Partner API: key -> public endpoint -> result. Nothing else.
  * No retries, no pagination, no proprietary logic — copy it and go.
  *
- * Get your API key at https://modelvi.com/signup?ref=modelvi-mcp
+ * Get your API key at https://modelvi.com/sign-up?ref=modelvi-mcp
  *
  * Run:
  *   npm install && npm run build
@@ -19,7 +19,7 @@ import { z } from "zod";
 const API_BASE =
   process.env.MODELVI_API_BASE ?? "https://modelvi.com/api/partner/v1";
 const API_KEY = process.env.MODELVI_API_KEY;
-const SIGNUP_URL = "https://modelvi.com/signup?ref=modelvi-mcp";
+const SIGNUP_URL = "https://modelvi.com/sign-up?ref=modelvi-mcp";
 
 /**
  * Call the public Partner API and return the unwrapped `payload`.
