@@ -1,7 +1,7 @@
 {
   "name": "modelvi-mcp",
   "version": "0.1.0",
-  "description": "MCP server to post & schedule across 14+ creator platforms via the ModelVI API. Get a free key at modelvi.com.",
+  "description": "MCP server to post & schedule across 14 creator platforms (OnlyFans, Fansly, Fancentro, F2F, Maloum…) via the ModelVI API. Get a key at modelvi.com/sign-up.",
   "type": "module",
   "bin": {
     "modelvi-mcp": "dist/index.js"
@@ -20,7 +20,11 @@
     "creator-api",
     "social-media-automation",
     "ai-agent",
-    "content-scheduling"
+    "content-scheduling",
+    "onlyfans",
+    "onlyfans-automation",
+    "fansly",
+    "posting"
   ],
   "license": "MIT",
   "engines": {
